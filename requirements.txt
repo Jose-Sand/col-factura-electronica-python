@@ -1,0 +1,4 @@
+lxml==4.9.1
+signxml==2.8.0
+requests==2.31.0
+unittest.mock==3.6.1  # Para tests, si no se incluye por defecto en Python 3.3+
